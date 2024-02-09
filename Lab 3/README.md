@@ -4,4 +4,4 @@ Loading video, applying grayscale and sobel filter to every frame of the video a
 
 FPS for 960 x 540 video: ~ 6.3 fps
 
-Sobel_valve.PNG is image used to test functionality of sobel filter. 
+valve_sobel.PNG is image used to test functionality of sobel filter. 
