@@ -4,4 +4,6 @@ Real time embedded systems labs and final project, all completed with a raspberr
 
 Lab 2: Gcc compiler and linux based operation
 
-Lab 3: Multi-Threading
+Lab 3: Grayscale and sobel filter on raspberry pi 3 B+
+
+Lab 4: Multithreading for optimization of grayscale and sobel filter on raspberry pi
